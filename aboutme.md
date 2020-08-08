@@ -36,7 +36,7 @@ Nhưng mình sẽ không nói là bản thân mình chậm lớn hay kém cỏi.
 
 Như mình nói bên trên, mình đang trên con đường tìm hiểu bản thân.
 
-Mình sẽ coi cái trang blog này như một cuốn nhật ký, tương tự như [page facebook của mình](https://facebook.com/cplgmdanielt), nhưng sẽ viết về những thứ sâu sắc hơn so với việc tấu hài hay share vài quote phim hay ho ngớ ngẩn. Đôi khi có cảm hứng, mình sẽ viết để chia sẻ về kiến thức mình học được liên quan đến toán hay khoa học máy tính, hoặc viết lời giải một đề thi thú vị mình đọc được. Còn lại, đa phần, mình muốn viết nhiều hơn về cuộc sống, phân tích các góc nhìn về những thứ rất đời thường như là việc mình bắt đầu hút thuốc lá hay tại sao mình ghét chỗ đông người.
+Mình sẽ coi cái trang blog này như một cuốn nhật ký, tương tự như [page facebook của mình](https://facebook.com/cplgmdanielt), nhưng sẽ viết về những thứ sâu sắc hơn so với việc tấu hài hay share vài quote phim hay ho ngớ ngẩn. Đôi khi có cảm hứng, mình sẽ viết để chia sẻ về kiến thức mình học được liên quan đến toán hay khoa học máy tính, hoặc viết lời giải một đề thi thú vị mình đọc được. Còn lại, đa phần, mình muốn viết nhiều hơn về cuộc sống, phân tích các góc nhìn về những thứ rất đời thường như là khác biệt văn hóa Tây - Ta hay tại sao mình ghét chỗ đông người.
 
 Điều mình muốn đạt được qua việc viết lách này đó chính là kết nối và tìm kiếm sự đồng cảm từ những người đến với Lơ After Midnight. Đồng thời, mình muốn lắng nghe và học tập nhiều hơn về những suy nghĩ khác nhau, những quan điểm trái chiều trong cuộc sống. Từ trước, mình luôn chú tâm vào phần chuyên môn của mình, nhưng rồi coi thường những điều nhỏ bé xung quanh mình, để rồi cuối cùng vướng bận vào những câu chuyện vô nghĩa, hay lao vào những mối quan hệ độc hại, vô ích. 
 
