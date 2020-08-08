@@ -6,7 +6,7 @@ layout: about
 
 > Play it with your strength. Don't try to climb trees if you're a fish, or don't try to tán gái if you're Lơ.
 
-### Thông tin cá nhân:
+### Thông tin cá nhân
 
 - Tên: Tô Tuấn Dũng (a.k.a.: Daniel To khi đi du học)
 
