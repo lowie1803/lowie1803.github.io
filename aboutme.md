@@ -4,6 +4,8 @@ layout: about
 
 [Về trang chủ](./index.html)
 
+![Profile Pic](image/profile-pic.jpg)
+
 > Play it with your strength. Don't try to climb trees if you're a fish, or don't try to tán gái if you're Lơ.
 
 ### Thông tin cá nhân
