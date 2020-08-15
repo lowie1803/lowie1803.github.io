@@ -1,4 +1,4 @@
-[Về trang trước](./index.html)
+[Về trang trước](./review-phim.html)
 
 # BoJack Horseman (US, 2014)
 

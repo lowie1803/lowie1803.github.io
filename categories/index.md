@@ -2,4 +2,6 @@
 
 # Các danh mục
 
-[Review phim](./review-phim/index.html)
+#### [Cảm phim (2)](./review-phim/review-phim.html)
+
+#### [Tâm sự đời (0)](./tam-chuyen/tam-chuyen.md)

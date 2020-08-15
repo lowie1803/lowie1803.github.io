@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Chào mừng bạn đến với blog Lơ After Midnight !! :>
+# Welcome! Đây là trang chủ của blog :>
 
 ## Blog mới nhất
 
