@@ -1,1 +1,1 @@
-[Về trang chủ](./index.html)
+[Về trang chủ](../index.html)
