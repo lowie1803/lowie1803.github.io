@@ -6,6 +6,6 @@ layout: default
 
 ### [Các danh mục Blog](./categories/index.html)
 
-### [Tuyển tập code mẫu by low_](./personal-code-archive/index.md)
+### [Tuyển tập code mẫu by low_](./personalcodearchive/index.md)
 
 ##### [About me](./aboutme.html)
