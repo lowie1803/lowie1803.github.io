@@ -2,10 +2,12 @@
 layout: default
 ---
 
-# Bài viết mới nhất
+# Chào mừng bạn đến với blog Lơ After Midnight !! :>
 
-### [Các danh mục Blog](./categories/index.html)
+## Blog mới nhất
 
-### [Tuyển tập code mẫu by low_](./personalcodearchive/index.md)
+#### [Các danh mục Blog](./categories/index.html)
 
-##### [About me](./aboutme.html)
+[About me](./aboutme.html)
+
+[CP personal code archive by IM low_](./personalcodearchive/index.md)
