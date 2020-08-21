@@ -4,7 +4,7 @@ layout: default
 
 # Welcome! Đây là trang chủ của blog :>
 
-## Blog mới nhất
+## [Etch](./etch-a-sketch/index.html)
 
 #### [Các danh mục Blog](./categories/index.html)
 
